@@ -5,7 +5,7 @@ import { achievements, icons, sections } from '../data/achievementsData';
 
 
 
-
+//This is hall of frame
 
 function HallOfFame() {
   return (
